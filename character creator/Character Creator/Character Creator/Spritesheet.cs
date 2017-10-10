@@ -9,6 +9,12 @@ namespace Character_Creator_Tool {
 	class Spritesheet {
 
 		private Image image = null;
+		public Image Image{ 
+			get{
+				return image;
+			}	
+		}
+
 		private string path;
 		
 		//returns width of spritesheet if the image has been loaded
