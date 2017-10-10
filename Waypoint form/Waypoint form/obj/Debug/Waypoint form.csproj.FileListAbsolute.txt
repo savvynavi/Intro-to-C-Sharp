@@ -1,0 +1,9 @@
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\bin\Debug\Waypoint form.exe.config
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\obj\Debug\Waypoint form.csprojResolveAssemblyReference.cache
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\obj\Debug\Waypoint_form.Form1.resources
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\obj\Debug\Waypoint_form.Properties.Resources.resources
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\obj\Debug\Waypoint form.csproj.GenerateResource.Cache
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\bin\Debug\Waypoint form.exe
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\bin\Debug\Waypoint form.pdb
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\obj\Debug\Waypoint form.exe
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\Waypoint form\Waypoint form\obj\Debug\Waypoint form.pdb

@@ -1,0 +1,6 @@
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\character creator\Character Creator Tool\Character Creator Tool\bin\Debug\Character Creator Tool.exe.config
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\character creator\Character Creator Tool\Character Creator Tool\bin\Debug\Character Creator Tool.exe
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\character creator\Character Creator Tool\Character Creator Tool\bin\Debug\Character Creator Tool.pdb
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\character creator\Character Creator Tool\Character Creator Tool\obj\Debug\Character Creator Tool.csprojResolveAssemblyReference.cache
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\character creator\Character Creator Tool\Character Creator Tool\obj\Debug\Character Creator Tool.exe
+C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C#\character creator\Character Creator Tool\Character Creator Tool\obj\Debug\Character Creator Tool.pdb
