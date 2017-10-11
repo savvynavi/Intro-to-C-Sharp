@@ -1,28 +1,28 @@
 ﻿namespace Character_Creator {
-    partial class MDIParent1 {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
-        private System.ComponentModel.IContainer components = null;
+	partial class MDIParent1 {
+		/// <summary>
+		/// Required designer variable.
+		/// </summary>
+		private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        protected override void Dispose(bool disposing) {
-            if(disposing && (components != null)) {
-                components.Dispose();
-            }
-            base.Dispose(disposing);
-        }
+		/// <summary>
+		/// Clean up any resources being used.
+		/// </summary>
+		/// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+		protected override void Dispose(bool disposing) {
+			if(disposing && (components != null)) {
+				components.Dispose();
+			}
+			base.Dispose(disposing);
+		}
 
-        #region Windows Form Designer generated code
+		#region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
-        private void InitializeComponent() {
+		/// <summary>
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
+		/// </summary>
+		private void InitializeComponent() {
 			this.components = new System.ComponentModel.Container();
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MDIParent1));
 			this.menuStrip = new System.Windows.Forms.MenuStrip();
@@ -77,7 +77,7 @@
 			this.statusStrip = new System.Windows.Forms.StatusStrip();
 			this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
 			this.toolTip = new System.Windows.Forms.ToolTip(this.components);
-			this.newSpriteSheet = new System.Windows.Forms.ToolStripMenuItem();
+			this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip.SuspendLayout();
 			this.toolStrip.SuspendLayout();
 			this.statusStrip.SuspendLayout();
@@ -86,7 +86,6 @@
 			// menuStrip
 			// 
 			this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.newSpriteSheet,
             this.fileMenu,
             this.editMenu,
             this.viewMenu,
@@ -113,7 +112,8 @@
             this.printPreviewToolStripMenuItem,
             this.printSetupToolStripMenuItem,
             this.toolStripSeparator5,
-            this.exitToolStripMenuItem});
+            this.exitToolStripMenuItem,
+            this.toolStripMenuItem1});
 			this.fileMenu.ImageTransparentColor = System.Drawing.SystemColors.ActiveBorder;
 			this.fileMenu.Name = "fileMenu";
 			this.fileMenu.Size = new System.Drawing.Size(37, 20);
@@ -125,7 +125,7 @@
 			this.newToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Black;
 			this.newToolStripMenuItem.Name = "newToolStripMenuItem";
 			this.newToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
-			this.newToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.newToolStripMenuItem.Size = new System.Drawing.Size(156, 22);
 			this.newToolStripMenuItem.Text = "&New";
 			this.newToolStripMenuItem.Click += new System.EventHandler(this.ShowNewForm);
 			// 
@@ -523,12 +523,12 @@
 			this.toolStripStatusLabel.Size = new System.Drawing.Size(39, 17);
 			this.toolStripStatusLabel.Text = "Status";
 			// 
-			// newSpriteSheet
+			// toolStripMenuItem1
 			// 
-			this.newSpriteSheet.Name = "newSpriteSheet";
-			this.newSpriteSheet.Size = new System.Drawing.Size(108, 20);
-			this.newSpriteSheet.Text = "New Sprite Sheet";
-			this.newSpriteSheet.Click += new System.EventHandler(this.newSpriteSheet_Click);
+			this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+			this.toolStripMenuItem1.Size = new System.Drawing.Size(156, 22);
+			this.toolStripMenuItem1.Text = "&new spritesheet";
+			this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
 			// 
 			// MDIParent1
 			// 
@@ -542,6 +542,7 @@
 			this.MainMenuStrip = this.menuStrip;
 			this.Name = "MDIParent1";
 			this.Text = "MDIParent1";
+			this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 			this.menuStrip.ResumeLayout(false);
 			this.menuStrip.PerformLayout();
 			this.toolStrip.ResumeLayout(false);
@@ -551,64 +552,64 @@
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
-        }
-        #endregion
+		}
+		#endregion
 
 
-        private System.Windows.Forms.MenuStrip menuStrip;
-        private System.Windows.Forms.ToolStrip toolStrip;
-        private System.Windows.Forms.StatusStrip statusStrip;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator3;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator4;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator5;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator6;
-        private System.Windows.Forms.ToolStripMenuItem printSetupToolStripMenuItem;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator7;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator8;
-        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel;
-        private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem tileHorizontalToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem fileMenu;
-        private System.Windows.Forms.ToolStripMenuItem newToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem openToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem saveToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem saveAsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem printToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem printPreviewToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem editMenu;
-        private System.Windows.Forms.ToolStripMenuItem undoToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem redoToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem cutToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem copyToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem pasteToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem selectAllToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem viewMenu;
-        private System.Windows.Forms.ToolStripMenuItem toolBarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem statusBarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem toolsMenu;
-        private System.Windows.Forms.ToolStripMenuItem optionsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem windowsMenu;
-        private System.Windows.Forms.ToolStripMenuItem newWindowToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem cascadeToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem tileVerticalToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem closeAllToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem arrangeIconsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem helpMenu;
-        private System.Windows.Forms.ToolStripMenuItem contentsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem indexToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem searchToolStripMenuItem;
-        private System.Windows.Forms.ToolStripButton newToolStripButton;
-        private System.Windows.Forms.ToolStripButton openToolStripButton;
-        private System.Windows.Forms.ToolStripButton saveToolStripButton;
-        private System.Windows.Forms.ToolStripButton printToolStripButton;
-        private System.Windows.Forms.ToolStripButton printPreviewToolStripButton;
-        private System.Windows.Forms.ToolStripButton helpToolStripButton;
-        private System.Windows.Forms.ToolTip toolTip;
-        private System.Windows.Forms.ToolStripMenuItem newSpriteSheet;
-    }
+		private System.Windows.Forms.MenuStrip menuStrip;
+		private System.Windows.Forms.ToolStrip toolStrip;
+		private System.Windows.Forms.StatusStrip statusStrip;
+		private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+		private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
+		private System.Windows.Forms.ToolStripSeparator toolStripSeparator3;
+		private System.Windows.Forms.ToolStripSeparator toolStripSeparator4;
+		private System.Windows.Forms.ToolStripSeparator toolStripSeparator5;
+		private System.Windows.Forms.ToolStripSeparator toolStripSeparator6;
+		private System.Windows.Forms.ToolStripMenuItem printSetupToolStripMenuItem;
+		private System.Windows.Forms.ToolStripSeparator toolStripSeparator7;
+		private System.Windows.Forms.ToolStripSeparator toolStripSeparator8;
+		private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel;
+		private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem tileHorizontalToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem fileMenu;
+		private System.Windows.Forms.ToolStripMenuItem newToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem openToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem saveToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem saveAsToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem printToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem printPreviewToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem editMenu;
+		private System.Windows.Forms.ToolStripMenuItem undoToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem redoToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem cutToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem copyToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem pasteToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem selectAllToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem viewMenu;
+		private System.Windows.Forms.ToolStripMenuItem toolBarToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem statusBarToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem toolsMenu;
+		private System.Windows.Forms.ToolStripMenuItem optionsToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem windowsMenu;
+		private System.Windows.Forms.ToolStripMenuItem newWindowToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem cascadeToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem tileVerticalToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem closeAllToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem arrangeIconsToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem helpMenu;
+		private System.Windows.Forms.ToolStripMenuItem contentsToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem indexToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem searchToolStripMenuItem;
+		private System.Windows.Forms.ToolStripButton newToolStripButton;
+		private System.Windows.Forms.ToolStripButton openToolStripButton;
+		private System.Windows.Forms.ToolStripButton saveToolStripButton;
+		private System.Windows.Forms.ToolStripButton printToolStripButton;
+		private System.Windows.Forms.ToolStripButton printPreviewToolStripButton;
+		private System.Windows.Forms.ToolStripButton helpToolStripButton;
+		private System.Windows.Forms.ToolTip toolTip;
+		private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+	}
 }
 
 
