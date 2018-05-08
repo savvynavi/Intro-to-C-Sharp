@@ -131,6 +131,7 @@
 			this.Controls.Add(this.pictureBox1);
 			this.Name = "RoomForm";
 			this.Text = "RoomForm";
+			this.Activated += new System.EventHandler(this.RoomForm_Activated);
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();

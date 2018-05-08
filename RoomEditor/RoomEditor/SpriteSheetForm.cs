@@ -78,7 +78,7 @@ namespace RoomEditor {
 		private void textBox1_TextChanged(object sender, EventArgs e) {
 			int width;
 			if(int.TryParse(textBox1.Text, out width) == true) {
-				//Spritesheet.GridWidth = width;
+				Spritesheet.GridWidth = width;
 				drawGrid();
 			}
 			textBox1.Text = Spritesheet.GridWidth.ToString();
@@ -88,7 +88,7 @@ namespace RoomEditor {
 		private void textBox2_TextChanged(object sender, EventArgs e) {
 			int height;
 			if(int.TryParse(textBox2.Text, out height) == true) {
-				//Spritesheet.GridHeight = height;
+				Spritesheet.GridHeight = height;
 				drawGrid();
 			}
 			textBox2.Text = Spritesheet.GridHeight.ToString();
