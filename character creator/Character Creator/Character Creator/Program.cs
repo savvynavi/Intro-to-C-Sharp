@@ -13,7 +13,7 @@ namespace Character_Creator {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SpriteSheetForm());
+            Application.Run(new SpriteForm());
         }
     }
 }

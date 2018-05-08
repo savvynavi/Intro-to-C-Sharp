@@ -10,3 +10,9 @@ C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C Sharp\characte
 C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\bin\Debug\Character Creator Tool.exe
 C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\bin\Debug\Character Creator Tool.pdb
 C:\Users\s170841\Documents\Visual Studio 2015\Projects\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\obj\Debug\Character Creator Tool.csprojResolveAssemblyReference.cache
+C:\Users\Microwave-chan\Documents\AIE\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\bin\Debug\Character Creator Tool.exe.config
+C:\Users\Microwave-chan\Documents\AIE\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\bin\Debug\Character Creator Tool.exe
+C:\Users\Microwave-chan\Documents\AIE\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\bin\Debug\Character Creator Tool.pdb
+C:\Users\Microwave-chan\Documents\AIE\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\obj\Debug\Character Creator Tool.csprojResolveAssemblyReference.cache
+C:\Users\Microwave-chan\Documents\AIE\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\obj\Debug\Character Creator Tool.exe
+C:\Users\Microwave-chan\Documents\AIE\Intro to C Sharp\character creator\Character Creator Tool\Character Creator Tool\obj\Debug\Character Creator Tool.pdb
