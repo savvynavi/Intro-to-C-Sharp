@@ -1,0 +1,1133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Listbox X="20" Y="26" />
+  <Listbox X="19" Y="26" />
+  <Listbox X="20" Y="25" />
+  <Listbox X="19" Y="25" />
+  <Listbox X="18" Y="25" />
+  <Listbox X="18" Y="26" />
+  <Listbox X="17" Y="26" />
+  <Listbox X="17" Y="25" />
+  <Listbox X="16" Y="25" />
+  <Listbox X="16" Y="26" />
+  <Listbox X="15" Y="26" />
+  <Listbox X="15" Y="25" />
+  <Listbox X="14" Y="25" />
+  <Listbox X="14" Y="26" />
+  <Listbox X="13" Y="26" />
+  <Listbox X="13" Y="26" />
+  <Listbox X="13" Y="25" />
+  <Listbox X="12" Y="25" />
+  <Listbox X="12" Y="26" />
+  <Listbox X="11" Y="26" />
+  <Listbox X="11" Y="25" />
+  <Listbox X="10" Y="25" />
+  <Listbox X="10" Y="26" />
+  <Listbox X="9" Y="26" />
+  <Listbox X="9" Y="25" />
+  <Listbox X="8" Y="25" />
+  <Listbox X="8" Y="25" />
+  <Listbox X="8" Y="25" />
+  <Listbox X="8" Y="26" />
+  <Listbox X="7" Y="25" />
+  <Listbox X="7" Y="26" />
+  <Listbox X="6" Y="26" />
+  <Listbox X="6" Y="25" />
+  <Listbox X="5" Y="25" />
+  <Listbox X="5" Y="26" />
+  <Listbox X="4" Y="26" />
+  <Listbox X="3" Y="26" />
+  <Listbox X="2" Y="26" />
+  <Listbox X="1" Y="26" />
+  <Listbox X="0" Y="25" />
+  <Listbox X="1" Y="26" />
+  <Listbox X="0" Y="26" />
+  <Listbox X="1" Y="25" />
+  <Listbox X="2" Y="25" />
+  <Listbox X="3" Y="25" />
+  <Listbox X="4" Y="25" />
+  <Listbox X="0" Y="24" />
+  <Listbox X="1" Y="24" />
+  <Listbox X="2" Y="24" />
+  <Listbox X="3" Y="24" />
+  <Listbox X="4" Y="24" />
+  <Listbox X="5" Y="24" />
+  <Listbox X="7" Y="24" />
+  <Listbox X="5" Y="24" />
+  <Listbox X="6" Y="24" />
+  <Listbox X="8" Y="24" />
+  <Listbox X="9" Y="24" />
+  <Listbox X="9" Y="24" />
+  <Listbox X="10" Y="24" />
+  <Listbox X="11" Y="24" />
+  <Listbox X="12" Y="24" />
+  <Listbox X="13" Y="24" />
+  <Listbox X="14" Y="24" />
+  <Listbox X="15" Y="24" />
+  <Listbox X="16" Y="24" />
+  <Listbox X="17" Y="24" />
+  <Listbox X="18" Y="24" />
+  <Listbox X="20" Y="24" />
+  <Listbox X="18" Y="24" />
+  <Listbox X="19" Y="24" />
+  <Listbox X="20" Y="23" />
+  <Listbox X="19" Y="23" />
+  <Listbox X="18" Y="23" />
+  <Listbox X="17" Y="23" />
+  <Listbox X="16" Y="23" />
+  <Listbox X="15" Y="23" />
+  <Listbox X="14" Y="23" />
+  <Listbox X="13" Y="23" />
+  <Listbox X="12" Y="23" />
+  <Listbox X="11" Y="23" />
+  <Listbox X="10" Y="23" />
+  <Listbox X="9" Y="23" />
+  <Listbox X="8" Y="23" />
+  <Listbox X="7" Y="23" />
+  <Listbox X="5" Y="23" />
+  <Listbox X="6" Y="23" />
+  <Listbox X="4" Y="23" />
+  <Listbox X="3" Y="23" />
+  <Listbox X="2" Y="23" />
+  <Listbox X="1" Y="23" />
+  <Listbox X="0" Y="23" />
+  <Listbox X="13" Y="22" />
+  <Listbox X="14" Y="22" />
+  <Listbox X="15" Y="22" />
+  <Listbox X="16" Y="22" />
+  <Listbox X="17" Y="22" />
+  <Listbox X="18" Y="22" />
+  <Listbox X="9" Y="25" />
+  <Listbox X="10" Y="25" />
+  <Listbox X="9" Y="24" />
+  <Listbox X="10" Y="24" />
+  <Listbox X="13" Y="23" />
+  <Listbox X="13" Y="22" />
+  <Listbox X="14" Y="22" />
+  <Listbox X="14" Y="23" />
+  <Listbox X="15" Y="22" />
+  <Listbox X="15" Y="23" />
+  <Listbox X="16" Y="23" />
+  <Listbox X="16" Y="22" />
+  <Listbox X="17" Y="22" />
+  <Listbox X="17" Y="23" />
+  <Listbox X="12" Y="22" />
+  <Listbox X="11" Y="22" />
+  <Listbox X="10" Y="22" />
+  <Listbox X="9" Y="22" />
+  <Listbox X="8" Y="22" />
+  <Listbox X="7" Y="22" />
+  <Listbox X="7" Y="21" />
+  <Listbox X="8" Y="21" />
+  <Listbox X="9" Y="21" />
+  <Listbox X="10" Y="21" />
+  <Listbox X="11" Y="21" />
+  <Listbox X="12" Y="21" />
+  <Listbox X="12" Y="20" />
+  <Listbox X="11" Y="20" />
+  <Listbox X="10" Y="20" />
+  <Listbox X="9" Y="20" />
+  <Listbox X="8" Y="20" />
+  <Listbox X="8" Y="19" />
+  <Listbox X="9" Y="19" />
+  <Listbox X="10" Y="19" />
+  <Listbox X="11" Y="19" />
+  <Listbox X="12" Y="19" />
+  <Listbox X="12" Y="18" />
+  <Listbox X="11" Y="18" />
+  <Listbox X="10" Y="18" />
+  <Listbox X="9" Y="18" />
+  <Listbox X="8" Y="18" />
+  <Listbox X="10" Y="20" />
+  <Listbox X="9" Y="20" />
+  <Listbox X="10" Y="19" />
+  <Listbox X="10" Y="18" />
+  <Listbox X="9" Y="19" />
+  <Listbox X="8" Y="17" />
+  <Listbox X="9" Y="17" />
+  <Listbox X="11" Y="17" />
+  <Listbox X="10" Y="17" />
+  <Listbox X="12" Y="17" />
+  <Listbox X="13" Y="17" />
+  <Listbox X="6" Y="17" />
+  <Listbox X="5" Y="17" />
+  <Listbox X="7" Y="17" />
+  <Listbox X="4" Y="17" />
+  <Listbox X="3" Y="17" />
+  <Listbox X="2" Y="17" />
+  <Listbox X="1" Y="17" />
+  <Listbox X="0" Y="17" />
+  <Listbox X="14" Y="17" />
+  <Listbox X="16" Y="17" />
+  <Listbox X="15" Y="17" />
+  <Listbox X="17" Y="17" />
+  <Listbox X="17" Y="17" />
+  <Listbox X="18" Y="17" />
+  <Listbox X="19" Y="17" />
+  <Listbox X="20" Y="17" />
+  <Listbox X="19" Y="22" />
+  <Listbox X="20" Y="22" />
+  <Listbox X="20" Y="21" />
+  <Listbox X="19" Y="21" />
+  <Listbox X="18" Y="21" />
+  <Listbox X="17" Y="21" />
+  <Listbox X="16" Y="21" />
+  <Listbox X="15" Y="21" />
+  <Listbox X="14" Y="21" />
+  <Listbox X="14" Y="21" />
+  <Listbox X="13" Y="21" />
+  <Listbox X="13" Y="20" />
+  <Listbox X="14" Y="20" />
+  <Listbox X="15" Y="20" />
+  <Listbox X="16" Y="20" />
+  <Listbox X="17" Y="20" />
+  <Listbox X="18" Y="20" />
+  <Listbox X="19" Y="20" />
+  <Listbox X="20" Y="20" />
+  <Listbox X="20" Y="19" />
+  <Listbox X="19" Y="19" />
+  <Listbox X="19" Y="18" />
+  <Listbox X="20" Y="18" />
+  <Listbox X="18" Y="18" />
+  <Listbox X="17" Y="19" />
+  <Listbox X="18" Y="19" />
+  <Listbox X="17" Y="19" />
+  <Listbox X="17" Y="18" />
+  <Listbox X="16" Y="19" />
+  <Listbox X="16" Y="18" />
+  <Listbox X="15" Y="19" />
+  <Listbox X="15" Y="18" />
+  <Listbox X="14" Y="18" />
+  <Listbox X="14" Y="19" />
+  <Listbox X="13" Y="19" />
+  <Listbox X="13" Y="18" />
+  <Listbox X="0" Y="18" />
+  <Listbox X="0" Y="19" />
+  <Listbox X="0" Y="20" />
+  <Listbox X="0" Y="21" />
+  <Listbox X="0" Y="22" />
+  <Listbox X="1" Y="22" />
+  <Listbox X="1" Y="21" />
+  <Listbox X="1" Y="20" />
+  <Listbox X="1" Y="19" />
+  <Listbox X="1" Y="18" />
+  <Listbox X="2" Y="19" />
+  <Listbox X="2" Y="19" />
+  <Listbox X="2" Y="18" />
+  <Listbox X="3" Y="18" />
+  <Listbox X="3" Y="19" />
+  <Listbox X="4" Y="19" />
+  <Listbox X="5" Y="18" />
+  <Listbox X="5" Y="18" />
+  <Listbox X="4" Y="18" />
+  <Listbox X="6" Y="19" />
+  <Listbox X="5" Y="19" />
+  <Listbox X="6" Y="18" />
+  <Listbox X="7" Y="18" />
+  <Listbox X="7" Y="19" />
+  <Listbox X="7" Y="20" />
+  <Listbox X="6" Y="20" />
+  <Listbox X="6" Y="21" />
+  <Listbox X="6" Y="22" />
+  <Listbox X="5" Y="22" />
+  <Listbox X="5" Y="21" />
+  <Listbox X="5" Y="20" />
+  <Listbox X="4" Y="20" />
+  <Listbox X="4" Y="21" />
+  <Listbox X="4" Y="22" />
+  <Listbox X="3" Y="22" />
+  <Listbox X="3" Y="21" />
+  <Listbox X="3" Y="20" />
+  <Listbox X="2" Y="20" />
+  <Listbox X="2" Y="21" />
+  <Listbox X="2" Y="22" />
+  <Listbox X="15" Y="18" />
+  <Listbox X="15" Y="19" />
+  <Listbox X="15" Y="20" />
+  <Listbox X="16" Y="18" />
+  <Listbox X="16" Y="19" />
+  <Listbox X="16" Y="20" />
+  <Listbox X="17" Y="18" />
+  <Listbox X="17" Y="19" />
+  <Listbox X="17" Y="20" />
+  <Listbox X="18" Y="18" />
+  <Listbox X="18" Y="19" />
+  <Listbox X="18" Y="20" />
+  <Listbox X="19" Y="18" />
+  <Listbox X="19" Y="19" />
+  <Listbox X="19" Y="20" />
+  <Listbox X="20" Y="18" />
+  <Listbox X="20" Y="19" />
+  <Listbox X="20" Y="20" />
+  <Listbox X="18" Y="18" />
+  <Listbox X="18" Y="18" />
+  <Listbox X="18" Y="19" />
+  <Listbox X="18" Y="20" />
+  <Listbox X="18" Y="19" />
+  <Listbox X="18" Y="18" />
+  <Listbox X="18" Y="20" />
+  <Listbox X="19" Y="19" />
+  <Listbox X="19" Y="18" />
+  <Listbox X="19" Y="20" />
+  <Listbox X="1" Y="21" />
+  <Listbox X="2" Y="21" />
+  <Listbox X="2" Y="20" />
+  <Listbox X="1" Y="20" />
+  <Listbox X="0" Y="16" />
+  <Listbox X="1" Y="16" />
+  <Listbox X="2" Y="16" />
+  <Listbox X="3" Y="16" />
+  <Listbox X="4" Y="16" />
+  <Listbox X="5" Y="16" />
+  <Listbox X="6" Y="16" />
+  <Listbox X="7" Y="16" />
+  <Listbox X="8" Y="16" />
+  <Listbox X="10" Y="16" />
+  <Listbox X="9" Y="16" />
+  <Listbox X="11" Y="16" />
+  <Listbox X="12" Y="16" />
+  <Listbox X="13" Y="16" />
+  <Listbox X="15" Y="16" />
+  <Listbox X="14" Y="16" />
+  <Listbox X="16" Y="16" />
+  <Listbox X="15" Y="16" />
+  <Listbox X="17" Y="16" />
+  <Listbox X="19" Y="16" />
+  <Listbox X="18" Y="16" />
+  <Listbox X="20" Y="16" />
+  <Listbox X="8" Y="15" />
+  <Listbox X="9" Y="15" />
+  <Listbox X="10" Y="15" />
+  <Listbox X="11" Y="15" />
+  <Listbox X="12" Y="15" />
+  <Listbox X="12" Y="14" />
+  <Listbox X="11" Y="14" />
+  <Listbox X="9" Y="14" />
+  <Listbox X="10" Y="14" />
+  <Listbox X="8" Y="14" />
+  <Listbox X="10" Y="13" />
+  <Listbox X="10" Y="12" />
+  <Listbox X="10" Y="11" />
+  <Listbox X="11" Y="11" />
+  <Listbox X="11" Y="12" />
+  <Listbox X="11" Y="13" />
+  <Listbox X="9" Y="11" />
+  <Listbox X="9" Y="12" />
+  <Listbox X="9" Y="13" />
+  <Listbox X="9" Y="10" />
+  <Listbox X="9" Y="9" />
+  <Listbox X="10" Y="9" />
+  <Listbox X="11" Y="9" />
+  <Listbox X="11" Y="10" />
+  <Listbox X="10" Y="10" />
+  <Listbox X="12" Y="11" />
+  <Listbox X="12" Y="10" />
+  <Listbox X="12" Y="9" />
+  <Listbox X="13" Y="10" />
+  <Listbox X="13" Y="11" />
+  <Listbox X="13" Y="9" />
+  <Listbox X="13" Y="9" />
+  <Listbox X="13" Y="10" />
+  <Listbox X="13" Y="11" />
+  <Listbox X="12" Y="12" />
+  <Listbox X="12" Y="13" />
+  <Listbox X="13" Y="13" />
+  <Listbox X="8" Y="13" />
+  <Listbox X="7" Y="13" />
+  <Listbox X="6" Y="13" />
+  <Listbox X="14" Y="13" />
+  <Listbox X="15" Y="13" />
+  <Listbox X="16" Y="13" />
+  <Listbox X="5" Y="13" />
+  <Listbox X="4" Y="13" />
+  <Listbox X="17" Y="13" />
+  <Listbox X="4" Y="12" />
+  <Listbox X="5" Y="12" />
+  <Listbox X="6" Y="12" />
+  <Listbox X="7" Y="12" />
+  <Listbox X="8" Y="12" />
+  <Listbox X="13" Y="12" />
+  <Listbox X="14" Y="12" />
+  <Listbox X="15" Y="12" />
+  <Listbox X="16" Y="12" />
+  <Listbox X="17" Y="12" />
+  <Listbox X="14" Y="11" />
+  <Listbox X="16" Y="11" />
+  <Listbox X="8" Y="11" />
+  <Listbox X="6" Y="11" />
+  <Listbox X="4" Y="11" />
+  <Listbox X="14" Y="10" />
+  <Listbox X="16" Y="10" />
+  <Listbox X="8" Y="10" />
+  <Listbox X="6" Y="10" />
+  <Listbox X="4" Y="10" />
+  <Listbox X="14" Y="9" />
+  <Listbox X="16" Y="9" />
+  <Listbox X="8" Y="9" />
+  <Listbox X="6" Y="9" />
+  <Listbox X="4" Y="9" />
+  <Listbox X="7" Y="10" />
+  <Listbox X="7" Y="11" />
+  <Listbox X="5" Y="10" />
+  <Listbox X="7" Y="11" />
+  <Listbox X="5" Y="11" />
+  <Listbox X="15" Y="10" />
+  <Listbox X="15" Y="11" />
+  <Listbox X="15" Y="9" />
+  <Listbox X="17" Y="9" />
+  <Listbox X="17" Y="10" />
+  <Listbox X="17" Y="11" />
+  <Listbox X="5" Y="9" />
+  <Listbox X="7" Y="9" />
+  <Listbox X="3" Y="13" />
+  <Listbox X="3" Y="12" />
+  <Listbox X="3" Y="11" />
+  <Listbox X="3" Y="10" />
+  <Listbox X="3" Y="9" />
+  <Listbox X="3" Y="13" />
+  <Listbox X="3" Y="12" />
+  <Listbox X="3" Y="11" />
+  <Listbox X="9" Y="11" />
+  <Listbox X="9" Y="10" />
+  <Listbox X="10" Y="10" />
+  <Listbox X="11" Y="10" />
+  <Listbox X="11" Y="9" />
+  <Listbox X="10" Y="9" />
+  <Listbox X="9" Y="9" />
+  <Listbox X="3" Y="10" />
+  <Listbox X="3" Y="9" />
+  <Listbox X="13" Y="15" />
+  <Listbox X="13" Y="14" />
+  <Listbox X="14" Y="14" />
+  <Listbox X="14" Y="15" />
+  <Listbox X="15" Y="15" />
+  <Listbox X="15" Y="14" />
+  <Listbox X="16" Y="14" />
+  <Listbox X="17" Y="15" />
+  <Listbox X="16" Y="15" />
+  <Listbox X="17" Y="14" />
+  <Listbox X="18" Y="14" />
+  <Listbox X="18" Y="15" />
+  <Listbox X="19" Y="15" />
+  <Listbox X="20" Y="15" />
+  <Listbox X="20" Y="14" />
+  <Listbox X="19" Y="14" />
+  <Listbox X="7" Y="14" />
+  <Listbox X="7" Y="15" />
+  <Listbox X="6" Y="15" />
+  <Listbox X="6" Y="14" />
+  <Listbox X="4" Y="14" />
+  <Listbox X="5" Y="15" />
+  <Listbox X="5" Y="14" />
+  <Listbox X="4" Y="15" />
+  <Listbox X="3" Y="15" />
+  <Listbox X="3" Y="14" />
+  <Listbox X="2" Y="14" />
+  <Listbox X="2" Y="15" />
+  <Listbox X="1" Y="15" />
+  <Listbox X="1" Y="14" />
+  <Listbox X="0" Y="14" />
+  <Listbox X="0" Y="15" />
+  <Listbox X="0" Y="15" />
+  <Listbox X="1" Y="15" />
+  <Listbox X="2" Y="15" />
+  <Listbox X="3" Y="15" />
+  <Listbox X="4" Y="15" />
+  <Listbox X="5" Y="15" />
+  <Listbox X="6" Y="15" />
+  <Listbox X="20" Y="15" />
+  <Listbox X="19" Y="15" />
+  <Listbox X="18" Y="15" />
+  <Listbox X="17" Y="15" />
+  <Listbox X="16" Y="15" />
+  <Listbox X="15" Y="15" />
+  <Listbox X="14" Y="15" />
+  <Listbox X="8" Y="15" />
+  <Listbox X="8" Y="14" />
+  <Listbox X="9" Y="13" />
+  <Listbox X="10" Y="13" />
+  <Listbox X="11" Y="14" />
+  <Listbox X="11" Y="15" />
+  <Listbox X="10" Y="15" />
+  <Listbox X="9" Y="15" />
+  <Listbox X="9" Y="14" />
+  <Listbox X="10" Y="14" />
+  <Listbox X="7" Y="15" />
+  <Listbox X="8" Y="15" />
+  <Listbox X="13" Y="15" />
+  <Listbox X="12" Y="15" />
+  <Listbox X="11" Y="15" />
+  <Listbox X="0" Y="14" />
+  <Listbox X="1" Y="14" />
+  <Listbox X="2" Y="14" />
+  <Listbox X="3" Y="14" />
+  <Listbox X="4" Y="14" />
+  <Listbox X="5" Y="14" />
+  <Listbox X="6" Y="14" />
+  <Listbox X="7" Y="14" />
+  <Listbox X="8" Y="14" />
+  <Listbox X="11" Y="14" />
+  <Listbox X="12" Y="14" />
+  <Listbox X="13" Y="14" />
+  <Listbox X="14" Y="14" />
+  <Listbox X="15" Y="14" />
+  <Listbox X="16" Y="14" />
+  <Listbox X="17" Y="14" />
+  <Listbox X="18" Y="14" />
+  <Listbox X="19" Y="14" />
+  <Listbox X="20" Y="14" />
+  <Listbox X="18" Y="13" />
+  <Listbox X="19" Y="13" />
+  <Listbox X="20" Y="13" />
+  <Listbox X="20" Y="12" />
+  <Listbox X="19" Y="12" />
+  <Listbox X="18" Y="12" />
+  <Listbox X="18" Y="11" />
+  <Listbox X="19" Y="11" />
+  <Listbox X="20" Y="11" />
+  <Listbox X="0" Y="13" />
+  <Listbox X="1" Y="13" />
+  <Listbox X="2" Y="13" />
+  <Listbox X="2" Y="12" />
+  <Listbox X="1" Y="12" />
+  <Listbox X="0" Y="12" />
+  <Listbox X="0" Y="11" />
+  <Listbox X="1" Y="11" />
+  <Listbox X="2" Y="11" />
+  <Listbox X="0" Y="10" />
+  <Listbox X="1" Y="10" />
+  <Listbox X="2" Y="10" />
+  <Listbox X="18" Y="10" />
+  <Listbox X="19" Y="10" />
+  <Listbox X="20" Y="10" />
+  <Listbox X="1" Y="13" />
+  <Listbox X="1" Y="12" />
+  <Listbox X="1" Y="11" />
+  <Listbox X="1" Y="10" />
+  <Listbox X="0" Y="11" />
+  <Listbox X="0" Y="12" />
+  <Listbox X="2" Y="12" />
+  <Listbox X="2" Y="11" />
+  <Listbox X="2" Y="10" />
+  <Listbox X="19" Y="13" />
+  <Listbox X="19" Y="12" />
+  <Listbox X="19" Y="11" />
+  <Listbox X="19" Y="10" />
+  <Listbox X="20" Y="12" />
+  <Listbox X="20" Y="11" />
+  <Listbox X="20" Y="10" />
+  <Listbox X="18" Y="12" />
+  <Listbox X="18" Y="11" />
+  <Listbox X="3" Y="8" />
+  <Listbox X="4" Y="8" />
+  <Listbox X="4" Y="8" />
+  <Listbox X="5" Y="8" />
+  <Listbox X="17" Y="8" />
+  <Listbox X="16" Y="8" />
+  <Listbox X="15" Y="8" />
+  <Listbox X="14" Y="8" />
+  <Listbox X="17" Y="8" />
+  <Listbox X="17" Y="7" />
+  <Listbox X="17" Y="6" />
+  <Listbox X="17" Y="5" />
+  <Listbox X="17" Y="4" />
+  <Listbox X="17" Y="3" />
+  <Listbox X="17" Y="2" />
+  <Listbox X="17" Y="1" />
+  <Listbox X="16" Y="0" />
+  <Listbox X="16" Y="1" />
+  <Listbox X="16" Y="2" />
+  <Listbox X="16" Y="3" />
+  <Listbox X="16" Y="4" />
+  <Listbox X="16" Y="5" />
+  <Listbox X="16" Y="6" />
+  <Listbox X="16" Y="7" />
+  <Listbox X="16" Y="8" />
+  <Listbox X="15" Y="8" />
+  <Listbox X="15" Y="7" />
+  <Listbox X="15" Y="6" />
+  <Listbox X="15" Y="5" />
+  <Listbox X="15" Y="4" />
+  <Listbox X="15" Y="3" />
+  <Listbox X="15" Y="2" />
+  <Listbox X="15" Y="1" />
+  <Listbox X="15" Y="0" />
+  <Listbox X="3" Y="8" />
+  <Listbox X="4" Y="8" />
+  <Listbox X="5" Y="8" />
+  <Listbox X="6" Y="8" />
+  <Listbox X="7" Y="8" />
+  <Listbox X="8" Y="8" />
+  <Listbox X="9" Y="8" />
+  <Listbox X="10" Y="8" />
+  <Listbox X="11" Y="8" />
+  <Listbox X="12" Y="8" />
+  <Listbox X="13" Y="8" />
+  <Listbox X="14" Y="8" />
+  <Listbox X="9" Y="8" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="12" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="12" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="11" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="11" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="10" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="10" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="9" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="9" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="8" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="8" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="8" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="8" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="7" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="7" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="26" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="25" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="7" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="8" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="9" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="9" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="10" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="11" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="12" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="24" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="12" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="11" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="10" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="9" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="8" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="7" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="23" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="22" />
+  <Sprites SourceX="47" SourceY="26" DestinationX="9" DestinationY="25" />
+  <Sprites SourceX="48" SourceY="26" DestinationX="10" DestinationY="25" />
+  <Sprites SourceX="47" SourceY="25" DestinationX="9" DestinationY="24" />
+  <Sprites SourceX="48" SourceY="25" DestinationX="10" DestinationY="24" />
+  <Sprites SourceX="36" SourceY="26" DestinationX="13" DestinationY="23" />
+  <Sprites SourceX="36" SourceY="25" DestinationX="13" DestinationY="22" />
+  <Sprites SourceX="37" SourceY="25" DestinationX="14" DestinationY="22" />
+  <Sprites SourceX="37" SourceY="26" DestinationX="14" DestinationY="23" />
+  <Sprites SourceX="38" SourceY="25" DestinationX="15" DestinationY="22" />
+  <Sprites SourceX="38" SourceY="26" DestinationX="15" DestinationY="23" />
+  <Sprites SourceX="39" SourceY="26" DestinationX="16" DestinationY="23" />
+  <Sprites SourceX="39" SourceY="25" DestinationX="16" DestinationY="22" />
+  <Sprites SourceX="40" SourceY="25" DestinationX="17" DestinationY="22" />
+  <Sprites SourceX="40" SourceY="26" DestinationX="17" DestinationY="23" />
+  <Sprites SourceX="35" SourceY="9" DestinationX="12" DestinationY="22" />
+  <Sprites SourceX="34" SourceY="9" DestinationX="11" DestinationY="22" />
+  <Sprites SourceX="33" SourceY="9" DestinationX="10" DestinationY="22" />
+  <Sprites SourceX="32" SourceY="9" DestinationX="9" DestinationY="22" />
+  <Sprites SourceX="31" SourceY="9" DestinationX="8" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="9" DestinationX="7" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="8" DestinationX="7" DestinationY="21" />
+  <Sprites SourceX="31" SourceY="8" DestinationX="8" DestinationY="21" />
+  <Sprites SourceX="32" SourceY="8" DestinationX="9" DestinationY="21" />
+  <Sprites SourceX="33" SourceY="8" DestinationX="10" DestinationY="21" />
+  <Sprites SourceX="34" SourceY="8" DestinationX="11" DestinationY="21" />
+  <Sprites SourceX="35" SourceY="8" DestinationX="12" DestinationY="21" />
+  <Sprites SourceX="35" SourceY="7" DestinationX="12" DestinationY="20" />
+  <Sprites SourceX="34" SourceY="7" DestinationX="11" DestinationY="20" />
+  <Sprites SourceX="33" SourceY="7" DestinationX="10" DestinationY="20" />
+  <Sprites SourceX="32" SourceY="7" DestinationX="9" DestinationY="20" />
+  <Sprites SourceX="31" SourceY="7" DestinationX="8" DestinationY="20" />
+  <Sprites SourceX="31" SourceY="6" DestinationX="8" DestinationY="19" />
+  <Sprites SourceX="32" SourceY="6" DestinationX="9" DestinationY="19" />
+  <Sprites SourceX="33" SourceY="6" DestinationX="10" DestinationY="19" />
+  <Sprites SourceX="34" SourceY="6" DestinationX="11" DestinationY="19" />
+  <Sprites SourceX="35" SourceY="6" DestinationX="12" DestinationY="19" />
+  <Sprites SourceX="35" SourceY="5" DestinationX="12" DestinationY="18" />
+  <Sprites SourceX="34" SourceY="5" DestinationX="11" DestinationY="18" />
+  <Sprites SourceX="33" SourceY="5" DestinationX="10" DestinationY="18" />
+  <Sprites SourceX="32" SourceY="5" DestinationX="9" DestinationY="18" />
+  <Sprites SourceX="31" SourceY="5" DestinationX="8" DestinationY="18" />
+  <Sprites SourceX="26" SourceY="9" DestinationX="10" DestinationY="20" />
+  <Sprites SourceX="25" SourceY="9" DestinationX="9" DestinationY="20" />
+  <Sprites SourceX="26" SourceY="8" DestinationX="10" DestinationY="19" />
+  <Sprites SourceX="26" SourceY="7" DestinationX="10" DestinationY="18" />
+  <Sprites SourceX="25" SourceY="8" DestinationX="9" DestinationY="19" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="8" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="9" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="11" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="10" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="12" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="13" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="6" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="5" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="7" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="4" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="3" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="2" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="1" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="0" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="14" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="16" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="15" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="17" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="17" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="18" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="19" DestinationY="17" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="20" DestinationY="17" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="19" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="20" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="18" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="17" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="16" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="15" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="14" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="13" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="0" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="1" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="7" DestinationY="18" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="7" DestinationY="19" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="7" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="6" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="5" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="4" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="22" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="3" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="20" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="21" />
+  <Sprites SourceX="30" SourceY="7" DestinationX="2" DestinationY="22" />
+  <Sprites SourceX="38" SourceY="11" DestinationX="15" DestinationY="18" />
+  <Sprites SourceX="38" SourceY="11" DestinationX="15" DestinationY="19" />
+  <Sprites SourceX="38" SourceY="11" DestinationX="15" DestinationY="20" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="16" DestinationY="18" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="16" DestinationY="19" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="16" DestinationY="20" />
+  <Sprites SourceX="40" SourceY="11" DestinationX="17" DestinationY="18" />
+  <Sprites SourceX="40" SourceY="11" DestinationX="17" DestinationY="19" />
+  <Sprites SourceX="40" SourceY="11" DestinationX="17" DestinationY="20" />
+  <Sprites SourceX="41" SourceY="11" DestinationX="18" DestinationY="18" />
+  <Sprites SourceX="41" SourceY="11" DestinationX="18" DestinationY="19" />
+  <Sprites SourceX="41" SourceY="11" DestinationX="18" DestinationY="20" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="19" DestinationY="18" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="19" DestinationY="19" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="19" DestinationY="20" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="20" DestinationY="18" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="20" DestinationY="19" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="20" DestinationY="20" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="18" DestinationY="18" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="18" DestinationY="18" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="18" DestinationY="19" />
+  <Sprites SourceX="39" SourceY="11" DestinationX="18" DestinationY="20" />
+  <Sprites SourceX="29" SourceY="8" DestinationX="18" DestinationY="19" />
+  <Sprites SourceX="29" SourceY="7" DestinationX="18" DestinationY="18" />
+  <Sprites SourceX="29" SourceY="9" DestinationX="18" DestinationY="20" />
+  <Sprites SourceX="29" SourceY="10" DestinationX="19" DestinationY="19" />
+  <Sprites SourceX="29" SourceY="9" DestinationX="19" DestinationY="18" />
+  <Sprites SourceX="29" SourceY="11" DestinationX="19" DestinationY="20" />
+  <Sprites SourceX="47" SourceY="24" DestinationX="1" DestinationY="21" />
+  <Sprites SourceX="48" SourceY="24" DestinationX="2" DestinationY="21" />
+  <Sprites SourceX="48" SourceY="23" DestinationX="2" DestinationY="20" />
+  <Sprites SourceX="47" SourceY="23" DestinationX="1" DestinationY="20" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="0" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="1" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="2" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="3" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="4" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="5" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="6" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="7" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="8" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="10" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="9" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="11" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="12" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="13" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="15" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="14" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="16" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="15" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="17" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="19" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="18" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="20" DestinationY="16" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="8" DestinationY="15" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="9" DestinationY="15" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="10" DestinationY="15" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="11" DestinationY="15" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="12" DestinationY="15" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="12" DestinationY="14" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="11" DestinationY="14" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="9" DestinationY="14" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="10" DestinationY="14" />
+  <Sprites SourceX="1" SourceY="3" DestinationX="8" DestinationY="14" />
+  <Sprites SourceX="20" SourceY="28" DestinationX="10" DestinationY="13" />
+  <Sprites SourceX="20" SourceY="27" DestinationX="10" DestinationY="12" />
+  <Sprites SourceX="20" SourceY="26" DestinationX="10" DestinationY="11" />
+  <Sprites SourceX="21" SourceY="26" DestinationX="11" DestinationY="11" />
+  <Sprites SourceX="21" SourceY="27" DestinationX="11" DestinationY="12" />
+  <Sprites SourceX="21" SourceY="28" DestinationX="11" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="26" DestinationX="9" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="9" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="9" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="25" DestinationX="9" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="24" DestinationX="9" DestinationY="9" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="10" DestinationY="9" />
+  <Sprites SourceX="21" SourceY="24" DestinationX="11" DestinationY="9" />
+  <Sprites SourceX="21" SourceY="25" DestinationX="11" DestinationY="10" />
+  <Sprites SourceX="20" SourceY="25" DestinationX="10" DestinationY="10" />
+  <Sprites SourceX="22" SourceY="24" DestinationX="12" DestinationY="11" />
+  <Sprites SourceX="22" SourceY="23" DestinationX="12" DestinationY="10" />
+  <Sprites SourceX="22" SourceY="22" DestinationX="12" DestinationY="9" />
+  <Sprites SourceX="21" SourceY="23" DestinationX="13" DestinationY="10" />
+  <Sprites SourceX="21" SourceY="23" DestinationX="13" DestinationY="11" />
+  <Sprites SourceX="21" SourceY="23" DestinationX="13" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="13" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="13" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="13" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="12" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="12" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="13" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="8" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="7" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="6" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="14" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="15" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="16" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="5" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="4" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="17" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="4" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="5" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="6" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="7" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="8" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="13" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="14" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="15" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="16" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="17" DestinationY="12" />
+  <Sprites SourceX="22" SourceY="24" DestinationX="14" DestinationY="11" />
+  <Sprites SourceX="22" SourceY="24" DestinationX="16" DestinationY="11" />
+  <Sprites SourceX="22" SourceY="24" DestinationX="8" DestinationY="11" />
+  <Sprites SourceX="22" SourceY="24" DestinationX="6" DestinationY="11" />
+  <Sprites SourceX="22" SourceY="24" DestinationX="4" DestinationY="11" />
+  <Sprites SourceX="22" SourceY="23" DestinationX="14" DestinationY="10" />
+  <Sprites SourceX="22" SourceY="23" DestinationX="16" DestinationY="10" />
+  <Sprites SourceX="22" SourceY="23" DestinationX="8" DestinationY="10" />
+  <Sprites SourceX="22" SourceY="23" DestinationX="6" DestinationY="10" />
+  <Sprites SourceX="22" SourceY="23" DestinationX="4" DestinationY="10" />
+  <Sprites SourceX="22" SourceY="22" DestinationX="14" DestinationY="9" />
+  <Sprites SourceX="22" SourceY="22" DestinationX="16" DestinationY="9" />
+  <Sprites SourceX="22" SourceY="22" DestinationX="8" DestinationY="9" />
+  <Sprites SourceX="22" SourceY="22" DestinationX="6" DestinationY="9" />
+  <Sprites SourceX="22" SourceY="22" DestinationX="4" DestinationY="9" />
+  <Sprites SourceX="21" SourceY="23" DestinationX="7" DestinationY="10" />
+  <Sprites SourceX="21" SourceY="23" DestinationX="7" DestinationY="11" />
+  <Sprites SourceX="21" SourceY="23" DestinationX="5" DestinationY="10" />
+  <Sprites SourceX="21" SourceY="24" DestinationX="7" DestinationY="11" />
+  <Sprites SourceX="21" SourceY="24" DestinationX="5" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="15" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="15" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="15" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="17" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="17" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="17" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="5" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="7" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="3" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="3" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="3" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="3" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="3" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="28" DestinationX="3" DestinationY="13" />
+  <Sprites SourceX="19" SourceY="26" DestinationX="3" DestinationY="12" />
+  <Sprites SourceX="19" SourceY="25" DestinationX="3" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="9" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="9" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="10" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="11" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="11" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="10" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="9" DestinationY="9" />
+  <Sprites SourceX="19" SourceY="26" DestinationX="3" DestinationY="10" />
+  <Sprites SourceX="19" SourceY="25" DestinationX="3" DestinationY="9" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="13" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="13" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="14" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="14" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="15" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="15" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="16" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="17" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="16" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="17" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="18" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="18" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="19" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="20" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="20" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="19" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="7" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="7" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="6" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="6" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="4" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="5" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="5" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="4" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="3" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="3" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="2" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="2" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="1" DestinationY="15" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="1" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="0" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="0" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="0" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="1" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="2" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="3" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="4" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="5" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="6" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="20" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="19" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="18" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="17" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="16" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="15" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="14" DestinationY="15" />
+  <Sprites SourceX="19" SourceY="17" DestinationX="8" DestinationY="15" />
+  <Sprites SourceX="19" SourceY="16" DestinationX="8" DestinationY="14" />
+  <Sprites SourceX="20" SourceY="15" DestinationX="9" DestinationY="13" />
+  <Sprites SourceX="21" SourceY="15" DestinationX="10" DestinationY="13" />
+  <Sprites SourceX="22" SourceY="16" DestinationX="11" DestinationY="14" />
+  <Sprites SourceX="22" SourceY="17" DestinationX="11" DestinationY="15" />
+  <Sprites SourceX="21" SourceY="17" DestinationX="10" DestinationY="15" />
+  <Sprites SourceX="20" SourceY="17" DestinationX="9" DestinationY="15" />
+  <Sprites SourceX="20" SourceY="16" DestinationX="9" DestinationY="14" />
+  <Sprites SourceX="21" SourceY="16" DestinationX="10" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="7" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="18" DestinationX="8" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="13" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="12" DestinationY="15" />
+  <Sprites SourceX="18" SourceY="18" DestinationX="11" DestinationY="15" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="0" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="1" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="2" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="3" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="4" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="5" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="6" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="7" DestinationY="14" />
+  <Sprites SourceX="16" SourceY="17" DestinationX="8" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="11" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="12" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="13" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="14" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="15" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="16" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="17" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="18" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="19" DestinationY="14" />
+  <Sprites SourceX="18" SourceY="17" DestinationX="20" DestinationY="14" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="18" DestinationY="13" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="19" DestinationY="13" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="20" DestinationY="13" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="20" DestinationY="12" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="19" DestinationY="12" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="18" DestinationY="12" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="18" DestinationY="11" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="19" DestinationY="11" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="20" DestinationY="11" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="0" DestinationY="13" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="1" DestinationY="13" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="2" DestinationY="13" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="2" DestinationY="12" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="1" DestinationY="12" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="0" DestinationY="12" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="0" DestinationY="11" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="1" DestinationY="11" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="2" DestinationY="11" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="0" DestinationY="10" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="1" DestinationY="10" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="2" DestinationY="10" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="18" DestinationY="10" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="19" DestinationY="10" />
+  <Sprites SourceX="29" SourceY="26" DestinationX="20" DestinationY="10" />
+  <Sprites SourceX="38" SourceY="9" DestinationX="1" DestinationY="13" />
+  <Sprites SourceX="38" SourceY="8" DestinationX="1" DestinationY="12" />
+  <Sprites SourceX="38" SourceY="7" DestinationX="1" DestinationY="11" />
+  <Sprites SourceX="38" SourceY="6" DestinationX="1" DestinationY="10" />
+  <Sprites SourceX="37" SourceY="7" DestinationX="0" DestinationY="11" />
+  <Sprites SourceX="37" SourceY="8" DestinationX="0" DestinationY="12" />
+  <Sprites SourceX="39" SourceY="8" DestinationX="2" DestinationY="12" />
+  <Sprites SourceX="39" SourceY="7" DestinationX="2" DestinationY="11" />
+  <Sprites SourceX="39" SourceY="6" DestinationX="2" DestinationY="10" />
+  <Sprites SourceX="41" SourceY="9" DestinationX="19" DestinationY="13" />
+  <Sprites SourceX="41" SourceY="8" DestinationX="19" DestinationY="12" />
+  <Sprites SourceX="41" SourceY="7" DestinationX="19" DestinationY="11" />
+  <Sprites SourceX="41" SourceY="6" DestinationX="19" DestinationY="10" />
+  <Sprites SourceX="42" SourceY="8" DestinationX="20" DestinationY="12" />
+  <Sprites SourceX="42" SourceY="7" DestinationX="20" DestinationY="11" />
+  <Sprites SourceX="42" SourceY="6" DestinationX="20" DestinationY="10" />
+  <Sprites SourceX="40" SourceY="8" DestinationX="18" DestinationY="12" />
+  <Sprites SourceX="40" SourceY="7" DestinationX="18" DestinationY="11" />
+  <Sprites SourceX="19" SourceY="25" DestinationX="3" DestinationY="8" />
+  <Sprites SourceX="19" SourceY="25" DestinationX="4" DestinationY="8" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="4" DestinationY="8" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="5" DestinationY="8" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="17" DestinationY="8" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="16" DestinationY="8" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="15" DestinationY="8" />
+  <Sprites SourceX="19" SourceY="27" DestinationX="14" DestinationY="8" />
+  <Sprites SourceX="17" SourceY="29" DestinationX="17" DestinationY="8" />
+  <Sprites SourceX="17" SourceY="28" DestinationX="17" DestinationY="7" />
+  <Sprites SourceX="17" SourceY="27" DestinationX="17" DestinationY="6" />
+  <Sprites SourceX="17" SourceY="26" DestinationX="17" DestinationY="5" />
+  <Sprites SourceX="17" SourceY="25" DestinationX="17" DestinationY="4" />
+  <Sprites SourceX="17" SourceY="24" DestinationX="17" DestinationY="3" />
+  <Sprites SourceX="17" SourceY="23" DestinationX="17" DestinationY="2" />
+  <Sprites SourceX="17" SourceY="22" DestinationX="17" DestinationY="1" />
+  <Sprites SourceX="16" SourceY="21" DestinationX="16" DestinationY="0" />
+  <Sprites SourceX="16" SourceY="22" DestinationX="16" DestinationY="1" />
+  <Sprites SourceX="16" SourceY="23" DestinationX="16" DestinationY="2" />
+  <Sprites SourceX="16" SourceY="24" DestinationX="16" DestinationY="3" />
+  <Sprites SourceX="16" SourceY="25" DestinationX="16" DestinationY="4" />
+  <Sprites SourceX="16" SourceY="26" DestinationX="16" DestinationY="5" />
+  <Sprites SourceX="16" SourceY="27" DestinationX="16" DestinationY="6" />
+  <Sprites SourceX="16" SourceY="28" DestinationX="16" DestinationY="7" />
+  <Sprites SourceX="16" SourceY="29" DestinationX="16" DestinationY="8" />
+  <Sprites SourceX="15" SourceY="29" DestinationX="15" DestinationY="8" />
+  <Sprites SourceX="15" SourceY="28" DestinationX="15" DestinationY="7" />
+  <Sprites SourceX="15" SourceY="27" DestinationX="15" DestinationY="6" />
+  <Sprites SourceX="15" SourceY="26" DestinationX="15" DestinationY="5" />
+  <Sprites SourceX="15" SourceY="25" DestinationX="15" DestinationY="4" />
+  <Sprites SourceX="15" SourceY="24" DestinationX="15" DestinationY="3" />
+  <Sprites SourceX="15" SourceY="23" DestinationX="15" DestinationY="2" />
+  <Sprites SourceX="15" SourceY="22" DestinationX="15" DestinationY="1" />
+  <Sprites SourceX="15" SourceY="21" DestinationX="15" DestinationY="0" />
+  <Sprites SourceX="19" SourceY="24" DestinationX="3" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="4" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="5" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="6" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="7" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="8" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="9" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="10" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="11" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="12" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="13" DestinationY="8" />
+  <Sprites SourceX="20" SourceY="24" DestinationX="14" DestinationY="8" />
+  <Sprites SourceX="50" SourceY="5" DestinationX="9" DestinationY="8" />
+</root>

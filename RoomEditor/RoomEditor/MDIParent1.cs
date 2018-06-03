@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace RoomEditor {
 	public partial class MDIParent1 : Form {
@@ -96,6 +97,19 @@ namespace RoomEditor {
 			childForm.MdiParent = this;
 			childForm.Text = "Room " + childFormNumber++;
 			childForm.Show();
+		}
+
+		//when clicked, opens a save as menu to save as either png or xml
+		private void saveToolStripButton_Click(object sender, EventArgs e) {
+			SaveFileDialog saveFileDialog = new SaveFileDialog();
+			saveFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+			saveFileDialog.Filter = "XML File (*.xml)|*.xml|PNG File (*.png)|*.png|All Files (*.*)|*.*";
+			if(saveFileDialog.ShowDialog(this) == DialogResult.OK) {
+				string FileName = saveFileDialog.FileName;
+				Bitmap bmp = new Bitmap(FileName);
+				bmp.Save(FileName);
+				//saveFileDialog.
+			}
 		}
 	}
 }
